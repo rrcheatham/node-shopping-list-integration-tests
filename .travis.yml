@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: hoHhJFXwgJQxUZ4WgDPlsnZJ9G07IfyRPAabSrt3dV0nfYHUfryd6XO+SCu8CRn4oZeiZH/D+0MSUYvzRBpqez5zY7IvP87PGXfKHjsorupfDGRFkIMt31SM6oTM4jJ/fyHykVt3x11Wmu00eg8NVlJL6UZahGYQUi5ef1kAMAncglTj5pActKwSE1HTz1F8RQGQRXY2awnEslc3UEVSvTaUzk8wvHS98mg54T7Ca1REc4TTQ9jIFC4NfZ2/BLKIvjqxX3VjHkuH4L/HwYY+Xk7q3rp4YCMFKsxzyd2P9Cau4C+Nf25jzftqkZR5QtY3D4oUigKskV8jSR+OAsry9P5BgTN9DVggK4OrQWut8uQn8Pm8Qey79ppF9qV/i2Iu5JuKBHYN0i/3v3ZgwLre/1/OvGVvWohEi5nR+K6lSfz6jDxARV7hCd8UP7N+5OvoxVKr3QvloTDPSF7wjL9yO+j69IyIrD27HaMxULMS2iHPIVMy/ydUZhHJjUEgC0x0q9dtVgpiPdroQcdSBkLVOxrSqoeHG9CFYKky0jZkoIW1m7XOFJ9CbFCcOCR8SlJfgiSFmooVyP4xCMR70MYbfWkn3iWwFazHmH2Zpxy9M8uMx4t9DGsk+htBgk78HOg3Q0Bu/NM1RIX2arN4jJ3MTVOLv4i+qCjPCEomEEE0vsA=
-  app: node-shopping-list-integration-tests
+  app: peaceful-waters-61627
   on:
     repo: rrcheatham/node-shopping-list-integration-tests
